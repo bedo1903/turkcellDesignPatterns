@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B2D502F3-6A8D-4CEE-8F71-9FCB5AC648B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SOLID", "SOLID", "{CBC538BF-937A-475F-BFE6-186E0AEA3E63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{6B2AA75B-5A11-4A32-B0AE-EF5714646F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleRepository", "src\SOLID\SingleRepository\SingleRepository.csproj", "{D415198D-35D7-4858-8F52-9ECB08311A81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D415198D-35D7-4858-8F52-9ECB08311A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D415198D-35D7-4858-8F52-9ECB08311A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D415198D-35D7-4858-8F52-9ECB08311A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D415198D-35D7-4858-8F52-9ECB08311A81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CBC538BF-937A-475F-BFE6-186E0AEA3E63} = {B2D502F3-6A8D-4CEE-8F71-9FCB5AC648B4}
+		{6B2AA75B-5A11-4A32-B0AE-EF5714646F50} = {B2D502F3-6A8D-4CEE-8F71-9FCB5AC648B4}
+		{D415198D-35D7-4858-8F52-9ECB08311A81} = {CBC538BF-937A-475F-BFE6-186E0AEA3E63}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEA25109-0B4A-4518-93C1-9ADFAB2579D4}
+	EndGlobalSection
+EndGlobal
