@@ -11,14 +11,14 @@ namespace SingleRepository
     {
         public int AddProduct(string name, decimal price)
         {
-            SqlConnection connection = new SqlConnection(@"Data Source=(localdb)\Mssqllocaldb;Initial Catalog=Northwind;Integrated Security=True");
-            SqlCommand command = new SqlCommand("INSERT into Products (ProductName,UnitPrice) values (@name,@price)", connection);
-            command.Parameters.AddWithValue("@name", name);
-            command.Parameters.AddWithValue("@price", price);
+            var connecttionString = @"Data Source=(localdb)\Mssqllocaldb;Initial Catalog=Northwind;Integrated Security=True";
+            var commandText = "INSERT into Products (ProductName,UnitPrice) values (@name,@price)";
+            Dictionary<string, object> parameters = new Dictionary<string, object>();
+            parameters.Add("@name", name);
+            parameters.Add("@price", price);
 
-            connection.Open();
-            var affectedRows = command.ExecuteNonQuery();
-            connection.Close();
+
+            var affectedRows = new DbHelper(connecttionString).Execute(commandText, parameters);
 
             return affectedRows;
 
