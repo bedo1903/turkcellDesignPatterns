@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.exe
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.deps.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\bin\Debug\net6.0\InterfaceSegregation.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\refint\InterfaceSegregation.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\InterfaceSegregation.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\SOLID\InterfaceSegregation\obj\Debug\net6.0\ref\InterfaceSegregation.dll
