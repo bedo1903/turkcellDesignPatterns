@@ -1,0 +1,2 @@
+﻿Composite:
+   Parent->Child ilişkisi olan çoklu bir node (düğüm) sistemi olsun. RAM'de bu sistemi kolayca yönetebilmek için Composite kullanılır.
