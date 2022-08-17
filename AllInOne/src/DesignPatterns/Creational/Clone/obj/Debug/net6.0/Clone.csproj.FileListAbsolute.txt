@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\bin\Debug\net6.0\Clone.exe
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\bin\Debug\net6.0\Clone.deps.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\bin\Debug\net6.0\Clone.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\bin\Debug\net6.0\Clone.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\bin\Debug\net6.0\Clone.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\refint\Clone.dll
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.pdb
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\Clone.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Turkcell\DesignPatterns\AllInOne\src\DesignPatterns\Creational\Clone\obj\Debug\net6.0\ref\Clone.dll
